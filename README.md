@@ -27,8 +27,8 @@ Please note that Instagram mainly refers to »Clients« instead of »Apps«. So 
 
 ---
 
-> A good place to get started is the [example project](example/README.md).
-
+> A good place to get started is the [example project](example/.
+@japaioo 
 ### Installation
 
 I strongly advice using [Composer](https://getcomposer.org) to keep updates as smooth as possible.
