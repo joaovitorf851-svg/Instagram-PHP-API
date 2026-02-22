@@ -17,7 +17,7 @@ A PHP wrapper for the Instagram API. Feedback or bug reports are appreciated.
 - cURL
 - Registered Instagram App
 
-## Get started
+## Get started 
 
 To use the Instagram API you have to register yourself as a developer at the [Instagram Developer Platform](http://instagr.am/developer/register/) and create an application. Take a look at the [uri guidelines](#samples-for-redirect-urls) before registering a redirect URI. You will receive your `client_id` and `client_secret`.
 
@@ -27,8 +27,8 @@ Please note that Instagram mainly refers to »Clients« instead of »Apps«. So 
 
 ---
 
-> A good place to get started is the [example project](example/README.md).
-
+> A good place to get started is the [example project] @japaioo
+> 
 ### Installation
 
 I strongly advice using [Composer](https://getcomposer.org) to keep updates as smooth as possible.
